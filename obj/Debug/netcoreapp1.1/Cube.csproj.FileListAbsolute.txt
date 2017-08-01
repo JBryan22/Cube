@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Cube/bin/Debug/netcoreapp1.1/Cube.deps.json
+/Users/Guest/Desktop/Cube/bin/Debug/netcoreapp1.1/Cube.runtimeconfig.json
+/Users/Guest/Desktop/Cube/bin/Debug/netcoreapp1.1/Cube.runtimeconfig.dev.json
+/Users/Guest/Desktop/Cube/obj/Debug/netcoreapp1.1/Cube.AssemblyInfo.cs
+/Users/Guest/Desktop/Cube/bin/Debug/netcoreapp1.1/Cube.dll
+/Users/Guest/Desktop/Cube/bin/Debug/netcoreapp1.1/Cube.pdb
+/Users/Guest/Desktop/Cube/obj/Debug/netcoreapp1.1/Cube.dll
+/Users/Guest/Desktop/Cube/obj/Debug/netcoreapp1.1/Cube.pdb
